@@ -1,2 +1,1 @@
-# Devops
-Learning Devops
+Sample Devops tools
